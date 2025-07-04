@@ -50,7 +50,7 @@ It helps reduce response time in the event of a security breach by sending immed
 - Blynk Cloud (for notifications and device management)
 - 
 ## 💻 Code
-- the complete code for the given program is given the motiondetection file uploaded
+- the complete code for the given program is given the motiondetection.ino file uploaded
    
 ## 🧪 Circuit Diagram
 

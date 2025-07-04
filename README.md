@@ -48,8 +48,10 @@ It helps reduce response time in the event of a security breach by sending immed
 
 ### ☁️ Cloud Services:
 - Blynk Cloud (for notifications and device management)
-
-
+- 
+## 💻 Code
+- the complete code for the given program is given the motiondetection file uploaded
+   
 ## 🧪 Circuit Diagram
 
 - The PIR sensor's OUT pin is connected to **GPIO 4** of the ESP32.
